@@ -1,0 +1,12 @@
+README.md
+setup.py
+4676_Fall2019_Proj1.egg-info/PKG-INFO
+4676_Fall2019_Proj1.egg-info/SOURCES.txt
+4676_Fall2019_Proj1.egg-info/dependency_links.txt
+4676_Fall2019_Proj1.egg-info/requires.txt
+4676_Fall2019_Proj1.egg-info/top_level.txt
+proj1_code/__init__.py
+proj1_code/datasets.py
+proj1_code/models.py
+proj1_code/part1.py
+proj1_code/utils.py
