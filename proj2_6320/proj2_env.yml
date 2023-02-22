@@ -1,0 +1,12 @@
+name: proj2
+channels:
+- defaults
+dependencies:
+- jupyter
+- matplotlib
+- pip
+- pytest
+- python=3.6
+- pyyaml
+- scipy=1.1.0
+- opencv
