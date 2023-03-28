@@ -6,4 +6,3 @@
 - This should create an environment named `proj4`. Activate it using the following Windows command: `activate proj4` or the following MacOS / Linux command: `source activate proj4`.
 - Run `pip install -e .`
 - Run the notebook using: `jupyter notebook`
-- Generate the submission once you're finished using `python zip_submission.py`
