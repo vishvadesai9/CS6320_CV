@@ -20,6 +20,11 @@ Computer Vision Course at the University of Utah
 - Harris Corner Detector
 - SIFTNet (SIFT as a neural network)
 
+# 4. [Camera Projection Matrix and Fundamental Matrix Estimation with RANSAC](https://github.com/vishvadesai9/CS6320_CV/blob/main/proj4_6320/proj4_code/proj4.ipynb)
+- Projection Matrix Estimation
+- Fundamental Matrix Estimation
+- RANSAC
+
 
 
 
