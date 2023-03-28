@@ -1,0 +1,1 @@
+Make a comment in the section about redoing the optimization after finding the points because if you just go with the last solution it can be wrong.  
