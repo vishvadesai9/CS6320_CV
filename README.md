@@ -16,4 +16,10 @@ Computer Vision Course at the University of Utah
 - Hough Transform for circles (Original Image, Smooth Image & Clutter Image)
 - Hough Transform on Image with Noise
 
+# 3. [Local Feature Matching](https://github.com/vishvadesai9/CS6320_CV/blob/main/proj3_6320/proj3_code/proj3.ipynb)
+- Harris Corner Detector
+- SIFTNet (SIFT as a neural network)
+
+
+
 
