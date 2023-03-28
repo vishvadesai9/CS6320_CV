@@ -1,0 +1,17 @@
+README.md
+setup.py
+6320_Spring2020_Proj3.egg-info/PKG-INFO
+6320_Spring2020_Proj3.egg-info/SOURCES.txt
+6320_Spring2020_Proj3.egg-info/dependency_links.txt
+6320_Spring2020_Proj3.egg-info/requires.txt
+6320_Spring2020_Proj3.egg-info/top_level.txt
+proj3_code/HarrisNet.py
+proj3_code/SIFTNet.py
+proj3_code/__init__.py
+proj3_code/student_feature_matching.py
+proj3_code/torch_layer_utils.py
+proj3_code/utils.py
+unit_tests/__init__.py
+unit_tests/feature_match_test.py
+unit_tests/harris_unit_test.py
+unit_tests/sift_unit_test.py
